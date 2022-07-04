@@ -10053,10 +10053,6 @@ img::-moz-selection {
   color: #ba0400;
 }
 
-#mainNav .navbar-brand:hover img{
-    height: 5rem;
-  }
-
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 0.5rem;
